@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  adp-helm-library:
+  - apiVersion: v2
+    created: "2023-09-12T18:58:34.5949523+01:00"
+    description: A Helm library chart that captures general configuration for the
+      ADP Kubernetes platform
+    digest: 3b30c96bda6243b8848c49a13f6caa9541747a900e205cfb5f162711a2167c0b
+    name: adp-helm-library
+    type: library
+    urls:
+    - https://defra-adp-sandpit.github.io/adp-helm-repository/adp-helm-library-4.0.0.tgz
+    version: 4.0.0
+generated: "2023-09-12T18:58:34.590795+01:00"
