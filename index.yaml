@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   adp-helm-library:
   - apiVersion: v2
-    created: "2023-09-12T18:58:34.5949523+01:00"
+    created: "2023-09-25T14:47:36.6849198Z"
+    description: A Helm library chart that captures general configuration for the
+      ADP Kubernetes platform
+    digest: 0cae64b1428d1cc39402aab62893b46da64fbc008c99a14965212373b52474f6
+    name: adp-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra-adp-sandpit/adp-helm-repository-fork/main/adp-helm-library-4.1.0.tgz
+    version: 4.1.0
+  - apiVersion: v2
+    created: "2023-09-25T14:47:36.6844038Z"
     description: A Helm library chart that captures general configuration for the
       ADP Kubernetes platform
     digest: 3b30c96bda6243b8848c49a13f6caa9541747a900e205cfb5f162711a2167c0b
     name: adp-helm-library
     type: library
     urls:
-    - https://defra-adp-sandpit.github.io/adp-helm-repository/adp-helm-library-4.0.0.tgz
+    - https://raw.githubusercontent.com/defra-adp-sandpit/adp-helm-repository-fork/main/adp-helm-library-4.0.0.tgz
     version: 4.0.0
-generated: "2023-09-12T18:58:34.590795+01:00"
+generated: "2023-09-25T14:47:36.6640716Z"
